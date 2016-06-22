@@ -1,5 +1,6 @@
 var theChores = [];
 
+
 var choreObject = {
   "chore": chore,
   "completed": boolean,
